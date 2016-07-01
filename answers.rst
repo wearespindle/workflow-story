@@ -2,13 +2,13 @@ Here are the anwsers for the excercises. These command are guidelines
 on how to achieve the results of the exercises and are the only correct
 answers.
 
-Excercise 1:
+Excercise 1::
 
     git checkout develop
     git checkout -b feature/my-story-idea-4567
     git push origin HEAD
 
-Excercise 2:
+Excercise 2::
 
     # Edit some
     git add --all
@@ -24,31 +24,31 @@ Excercise 2:
 
     git push origin HEAD
 
-Excercise 3:
+Excercise 3::
 
     rbt post -g
 
-Excercise 4:
+Excercise 4::
 
     rbt post -r 1234
 
-Excercise 5:
+Excercise 5::
 
     git rebase -i origin/develop
     # Use 'r' on the first commit to reword it and use 'f' on all other commits
     # to squash them.
 
-Excercise 6:
+Excercise 6::
 
     git push -f origin feature/my-story-idea-4567
 
-Excercise 7:
+Excercise 7::
 
     git checkout develop
     git pull --rebase
     git merge --no-ff feature/my-story-idea-4567
 
-Excercise 8:
+Excercise 8::
 
     # Close the review in the webinterface
     git push origin :feature/my-story-idea-4567
