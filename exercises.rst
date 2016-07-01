@@ -42,7 +42,8 @@ After adding 3 lines and commits push these commits to the remote.
 Excercise 3: Publishing a review
 --------------------------------
 Create a review for the commits you made.
-HINT: The command to create a review can be found on the wiki.
+
+    **HINT: The command to create a review can be found on the wiki.**
 
 Edit this review and update the information with the branch name, ticket number
 and people who you would like to get reviews from. Publish this review so others
@@ -55,7 +56,8 @@ Excercise 4: Updating the review
 --------------------------------
 Create a commit for changes you made after review feedback and push them to remote.
 Update the review afterwards.
-HINT: The command for updating a review can be found on the wiki.
+
+    **HINT: The command for updating a review can be found on the wiki.**
 
 Should you recieve a `Ship it` go to excercise 5 or repeat until you do :)
 
@@ -67,7 +69,8 @@ This allows us to merge commits into 1 commit and change the message of the 1
 commit to reflect the ticket.
 
 Go and squash commits to 1 commit with a name that adheres to our naming convention.
-HINT: Information about this can be found on the wiki (squashen).
+
+    **HINT: Information about this can be found on the wiki.**
 
 Excercise 6: Force pushing
 --------------------------
@@ -82,8 +85,9 @@ Excercise 7: Merging story lines
 --------------------------------
 Our addition to the story is now ready to be added to the develop branch!
 
-Merge the feature branch in the develop branch. HINT: Don't forget to use
---no-ff to keep the merge commit.
+Merge the feature branch in the develop branch.
+
+    **HINT: Don't forget to use --no-ff to keep the merge commit.**
 
 After merging push the updated develop branch to remote.
 
