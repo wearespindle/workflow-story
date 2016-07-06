@@ -47,6 +47,7 @@ Excercise 7::
     git checkout develop
     git pull --rebase
     git merge --no-ff feature/my-story-idea-4567
+    git push origin HEAD
 
 Excercise 8::
 
