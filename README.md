@@ -3,6 +3,9 @@
 Once upon a time...
 There were some nerds.
 
+They loved to play video games. 
+They like to make awesome stuff.
+
 They decided to make an awesome VoIP platform.  
 So they tamed a python and unchained Django.
 They also created a movie called Django unchained.  
